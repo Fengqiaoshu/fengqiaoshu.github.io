@@ -161,7 +161,7 @@ comments_provider: giscus
 #    repo: 
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: Fengqiaoshu/myglod
+    repo: Fengqiaoshu/fengqiaoshu.github.io
     repo-id: R_kgDOI385bQ
     category: General
     category-id: DIC_kwDOI385bc4CT6K9

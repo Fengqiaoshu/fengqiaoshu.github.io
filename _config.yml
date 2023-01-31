@@ -17,7 +17,7 @@ repository: https://github.com/Fengqiaoshu/myglod.git
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
-        enabled: false
+        enabled: true
 # 可选组件配置
 components:
     # 分享
@@ -85,12 +85,12 @@ navs:
 #     label: 开源
 
   -
-#    href: /wiki/
-#    label: 维基
+    href: /wiki/
+    label: 维基
 
   -
-#    href: /links/
-#    label: 链接
+    href: /links/
+    label: 链接
 
   -
     href: /about/

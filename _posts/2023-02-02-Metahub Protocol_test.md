@@ -9,9 +9,11 @@ keywords: Cryprto,protocol,web3,test
 >好早就接触到这个Metahub这个项目，但是一直没有太深入的去研究过，正好明天余冬良老师还在上海，今晚走一遍流程了解下，明天向他请教应该能有更加深入的认知！！！！
 
 ## 准备步骤
-### 1. 目前Metahub是跑在goerli测试网上,所以要先领取代币。 网址： `https://goerlifaucet.com/`
+### 1. 目前Metahub是跑在goerli测试网上,所以要先领取代币。   
+网址： `https://goerlifaucet.com/`
 
-### 2. 通过safe创建测试账号： `https://gnosis-safe.io/`(app/welcome)   
+### 2. 通过safe创建测试账号：  
+ `https://gnosis-safe.io/`(app/welcome)   
 
 ![test1](/images/test/2023.02.02/301c444505905b0d46a017dc291cb51.png)  
 <font size=2 color=orange>Tips:请检查一步url是否是gnosis-safe.io，我因为这个没注意后面抓耳挠腮好久。(~这个色儿应该明显点~)
@@ -41,7 +43,7 @@ keywords: Cryprto,protocol,web3,test
  ![test5](/images/test/2023.02.02/e1a17873b917ef66108dfb12c2db884.png)
  * 重复上面的合约交互动作
  * 分别将图上的地址复制进去，接口选择approve，授权数量+6个0，点击 `Review` 。  
-   
+
  ### 5. 通过Pass合约mint接口，给将要铸造PassNFT取名，是该Pass发布的社区名称。
 
 <details>  

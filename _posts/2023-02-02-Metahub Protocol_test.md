@@ -3,7 +3,7 @@ layout: post
 title: Metahub Protocol
 categories: test
 description: Metahub 协议的初次尝试
-keywords: Cryprto,protocol,web3,test
+keywords: Cryprto,protocol,web3,Test
 ---
 # Metahub Protocol
 >好早就接触到这个Metahub这个项目，但是一直没有太深入的去研究过，正好明天余冬良老师还在上海，今晚走一遍流程了解下，明天向他请教应该能有更加深入的认知！！！！
@@ -36,18 +36,18 @@ keywords: Cryprto,protocol,web3,test
  USDT测试合约： `0x63B702e9C5B05ceA963962fb4fE8B2B72d731F2d` 。  
 
  ![test4](/images/test/2023.02.02/7bbf0b044bcff7e402bdc7bd209c18a.png)    
- 把USDT的合约地址复制到 `Contract address`中，下方接口选择 `mint`。    
+ 把USDT的合约地址复制到 `Contract address`中，下方接口选择 `mint`。  
 
  ### 4. 将USDT授权给Pass合约，用于铸造Pass NFT扣款（授权数量+6个0）。  
  pass合约： `0x98A9325419cA136a454a8fF12Ac1D3a088062bfC` 。 
  ![test5](/images/test/2023.02.02/e1a17873b917ef66108dfb12c2db884.png)
  * 重复上面的合约交互动作
  * 分别将图上的地址复制进去，接口选择approve，授权数量+6个0，点击 `Review` 。  
-
+ 
  ### 5. 通过Pass合约mint接口，给将要铸造PassNFT取名，是该Pass发布的社区名称。
 
 <details>  
-<summary>展开内容</summary>
+<summary>点我点我</summary>
 <pre><code>
          [
             {
@@ -1333,7 +1333,8 @@ keywords: Cryprto,protocol,web3,test
             }
           ]
 </code></pre>
-</details>
+</details>  
+
 <font size=2 color=orange>Tips:内容很长请点击展开全部复制！(~完事记得关上太长了~)    
 </font>  
 

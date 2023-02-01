@@ -4,7 +4,7 @@
 baseurl:
 url: https://walnutTTTT.com
 date_format: "ordinal"
-title: 核桃仁
+title: WalnutTTTT 
 subtitle: "WalnutTTTT 学习笔记"
 description: "111"
 keywords: 
@@ -88,9 +88,9 @@ navs:
     href: /wiki/
     label: 维基
 
-  -
-    href: /links/
-    label: 链接
+# -
+#    href: /links/
+#    label: 链接
 
   -
     href: /about/

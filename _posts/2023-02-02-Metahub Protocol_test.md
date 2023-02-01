@@ -34,12 +34,14 @@ keywords: Cryprto,protocol,web3,test
  USDT测试合约： `0x63B702e9C5B05ceA963962fb4fE8B2B72d731F2d` 。  
 
  ![test4](/images/test/2023.02.02/7bbf0b044bcff7e402bdc7bd209c18a.png)    
- 把USDT的合约地址复制到 `Contract address`中，下方接口选择 `mint`。  
+ 把USDT的合约地址复制到 `Contract address`中，下方接口选择 `mint`。    
+
  ### 4. 将USDT授权给Pass合约，用于铸造Pass NFT扣款（授权数量+6个0）。  
  pass合约： `0x98A9325419cA136a454a8fF12Ac1D3a088062bfC` 。 
  ![test5](/images/test/2023.02.02/e1a17873b917ef66108dfb12c2db884.png)
  * 重复上面的合约交互动作
  * 分别将图上的地址复制进去，接口选择approve，授权数量+6个0，点击 `Review` 。  
+   
  ### 5. 通过Pass合约mint接口，给将要铸造PassNFT取名，是该Pass发布的社区名称。
 
 <details>  

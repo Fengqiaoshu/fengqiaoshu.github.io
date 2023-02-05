@@ -1345,4 +1345,4 @@ keywords: Cryprto,protocol,web3,Test
 * 给社区取名字（域名的顶级域名称表示）  
 ### 6.查询Pass NFT的TokenID。
 ---
-困了 明天再继续
+测试网络一直出错 我等回过来再更新

@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Token解锁
-categories: Cryprto
-description: 并不是所有的token解锁都是一样的情况
-keywords: Cryprto，token
+title: Go基础记录
+categories: Go
+description: Go基础记录
+keywords: Go
 ---
-token的解锁通常会被视为看跌的事件，
 
 
 
@@ -20,6 +19,3 @@ token的解锁通常会被视为看跌的事件，
 
 
 
-
-## 资料
-https://blog.kaiko.com/token-unlocks-not-all-built-the-same-830deb1e3478

@@ -18,7 +18,7 @@
         return '%' + c.charCodeAt(0).toString(16);
       });
     }
-
+    
     var headers = $(settings.headers).filter(function() {
       if ($(this).parent('blockquote').length > 0) {
         return false;
